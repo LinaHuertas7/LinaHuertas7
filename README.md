@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=LinaHuertas7&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LinaHuertas7&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=LinaHuertas7&theme=dark&hide_border=true)
