@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LinaHuertas7&layout=compact&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=LinaHuertas7&theme=dark&hide_border=true)
+
+[![Contribution Graph](https://ghchart.rshah.org/238636/LinaHuertas7)](https://github.com/LinaHuertas7)
+
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=LinaHuertas7&theme=github-compact&hide_border=true)](https://github.com/LinaHuertas7)
